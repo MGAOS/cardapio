@@ -27,8 +27,9 @@ h1,h2{
 }
 
 .titulo{
-     text-align: center;
-    zoom: 150%;
+    text-align: center;
+     zoom: 150%;
+    color: rgb(177, 72, 247);
 }
 
 .menu{
@@ -36,8 +37,7 @@ h1,h2{
     width: 25%;
     border: 40px transparent;
     text-align: center;
-    clear: both;
-    }
+}
 
 .quemsomos{
     clear: both;
