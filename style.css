@@ -1,0 +1,52 @@
+header{
+    margin: auto;
+}
+
+h1,h2{
+        color: rgb(250, 226, 10);
+        zoom: calc(400%);
+}
+
+.centralizar{
+    text-align: center;
+}
+
+#inicio{
+    width: 1320px;
+    height: 560px;
+    padding: auto;
+    background-image:url(capa.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;     
+}
+
+.atencao{
+    text-align: center;
+    zoom: 150%;
+    color: rgb(177, 72, 247);
+}
+
+.menu{
+    width: 25%;
+    border: 40px transparent;
+    text-align: center;
+    float: left;
+}
+
+.quemsomos{
+    text-align: center;
+    color: rgb(177, 72, 247);
+    zoom: 200%;
+}
+
+.contato{
+    text-align: center;
+    border: 10px rgb(177, 72, 247);
+}
+.creditos{
+column-rule-style: solid color rgb(177, 72, 247);
+
+}
+h6{
+    text-align: center;
+}
