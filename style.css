@@ -27,6 +27,12 @@ h1,h2{
     color: rgb(177, 72, 247);
 }
 
+.titulo{
+     text-align: center;
+    zoom: 150%;
+    color: rgb(177, 72, 247);
+}
+
 .menu{
     float: left;
     width: 25%;
