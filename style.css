@@ -21,6 +21,7 @@ h1,h2{
 }
 
 .atencao{
+    clear: both;
     text-align: center;
     zoom: 150%;
     color: rgb(177, 72, 247);
