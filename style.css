@@ -12,8 +12,8 @@ h1,h2{
 }
 
 #inicio{
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 100%;
     padding: auto;
     background-image:url(capa.jpg);
     background-size: 100% 100%;
